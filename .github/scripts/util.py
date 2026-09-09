@@ -17,6 +17,26 @@ BLOCKED_COMPANIES = {
     "https://simplify.jobs/c/Jerry",
 }
 
+# When True, the README only includes listings with at least one Canadian location.
+CANADA_ONLY = True
+
+CANADIAN_PROVINCE_ABBREVIATIONS = {
+    "ab", "bc", "mb", "nb", "nl", "ns", "nt", "nu", "on", "pe", "qc", "sk", "yt"
+}
+
+def is_canada_location(location):
+    loc_lower = location.lower()
+    if "canada" in loc_lower:
+        return True
+    if re.search(r',\s*can\b', loc_lower):
+        return True
+    if re.search(r',\s*(' + '|'.join(CANADIAN_PROVINCE_ABBREVIATIONS) + r')\b', loc_lower):
+        return True
+    return False
+
+def is_canada_listing(listing):
+    return any(is_canada_location(loc) for loc in listing.get("locations", []))
+
 # Define categories with their correct anchor formats and emojis
 CATEGORIES = {
     "Software": {
@@ -242,7 +262,10 @@ def filterListings(listings, earliest_date):
             company_url = listing.get("company_url", "").lower()
             if any(blocked_url in company_url for blocked_url in blocked_urls_lower):
                 continue  # Skip blocked companies
-            
+
+            if CANADA_ONLY and not is_canada_listing(listing):
+                continue  # Skip non-Canada listings
+
             if listing['source'] != "Simplify" or (any(term in listing["title"].lower() for term in inclusion_terms) and (any(term in listing["title"].lower() for term in new_grad_terms) or (listing["title"].lower().endswith("engineer i")))):
                 final_listings.append(listing)
 
