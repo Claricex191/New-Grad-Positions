@@ -17,11 +17,25 @@ BLOCKED_COMPANIES = {
     "https://simplify.jobs/c/Jerry",
 }
 
-# When True, the README only includes listings with at least one Canadian location.
-CANADA_ONLY = True
+# When True, the README only includes listings located in Canada, Japan, or Europe
+# (US locations are never matched by these regions, so they're excluded as a side effect).
+REGION_FILTER_ONLY = True
 
 CANADIAN_PROVINCE_ABBREVIATIONS = {
     "ab", "bc", "mb", "nb", "nl", "ns", "nt", "nu", "on", "pe", "qc", "sk", "yt"
+}
+
+EUROPEAN_COUNTRIES = {
+    "uk", "united kingdom", "ireland", "germany", "france", "netherlands", "spain",
+    "italy", "poland", "switzerland", "sweden", "norway", "denmark", "finland",
+    "belgium", "austria", "portugal", "czech republic", "czechia", "romania",
+    "hungary", "greece", "luxembourg", "estonia", "latvia", "lithuania", "croatia",
+    "slovakia", "slovenia", "bulgaria", "iceland", "malta", "cyprus",
+}
+
+JAPAN_KEYWORDS = {
+    "japan", "tokyo", "osaka", "yokohama", "kyoto", "nagoya", "sapporo",
+    "fukuoka", "kobe", "kawasaki", "hiroshima", "sendai",
 }
 
 def is_canada_location(location):
@@ -34,8 +48,28 @@ def is_canada_location(location):
         return True
     return False
 
+def is_europe_location(location):
+    loc_lower = location.lower()
+    last_segment = loc_lower.split(",")[-1].strip()
+    if last_segment in EUROPEAN_COUNTRIES:
+        return True
+    if re.search(r'\buk\b', loc_lower):
+        return True
+    return False
+
+def is_japan_location(location):
+    loc_lower = location.lower()
+    return any(k in loc_lower for k in JAPAN_KEYWORDS)
+
 def is_canada_listing(listing):
     return any(is_canada_location(loc) for loc in listing.get("locations", []))
+
+def is_target_region_listing(listing):
+    locations = listing.get("locations", [])
+    return any(
+        is_canada_location(loc) or is_europe_location(loc) or is_japan_location(loc)
+        for loc in locations
+    )
 
 # Define categories with their correct anchor formats and emojis
 CATEGORIES = {
@@ -251,7 +285,7 @@ def create_md_table(listings):
 def filterListings(listings, earliest_date):
     final_listings = []
     inclusion_terms = ["software eng", "software dev", "product engineer", "fullstack engineer", "frontend", "front end", "front-end", "backend", "back end", "full-stack", "full stack", "founding engineer", "mobile dev", "mobile engineer", "data scientist", "data engineer", "research eng", "product manag", "apm", "product", "devops", "android", "ios", "sre", "site reliability eng", "quantitative trad", "quantitative research", "quantitative dev", "security eng", "compiler eng", "machine learning eng", "hardware eng", "firmware eng", "infrastructure eng", "embedded", "fpga", "circuit", "chip", "silicon", "asic", "quant", "quantitative", "trading", "finance", "investment", "ai &", "machine learning", "ml", "analytics", "analyst", "research sci"]
-    new_grad_terms = ["new grad", "early career", "college grad", "entry level", "founding", "early in career", "university grad", "fresh grad", "2024 grad", "2025 grad", "engineer 0", "engineer 1", "engineer i ", "junior", "sde 1", "sde i"]
+    new_grad_terms = ["new grad", "early career", "college grad", "entry level", "entry", "founding", "early in career", "university grad", "fresh grad", "2024 grad", "2025 grad", "2026 grad", "engineer 0", "engineer 1", "engineer i ", "junior", "sde 1", "sde i", "associate", "developer 1", "developer i "]
     
     # Convert blocked URLs to lowercase for case-insensitive comparison
     blocked_urls_lower = {url.lower() for url in BLOCKED_COMPANIES}
@@ -263,8 +297,8 @@ def filterListings(listings, earliest_date):
             if any(blocked_url in company_url for blocked_url in blocked_urls_lower):
                 continue  # Skip blocked companies
 
-            if CANADA_ONLY and not is_canada_listing(listing):
-                continue  # Skip non-Canada listings
+            if REGION_FILTER_ONLY and not is_target_region_listing(listing):
+                continue  # Skip listings outside Canada/Japan/Europe
 
             if listing['source'] != "Simplify" or (any(term in listing["title"].lower() for term in inclusion_terms) and (any(term in listing["title"].lower() for term in new_grad_terms) or (listing["title"].lower().endswith("engineer i")))):
                 final_listings.append(listing)
