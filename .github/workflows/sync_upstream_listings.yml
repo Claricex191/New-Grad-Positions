@@ -1,0 +1,61 @@
+name: Sync Upstream Listings
+
+# Pulls only .github/scripts/listings.json from the upstream
+# SimplifyJobs/New-Grad-Positions repo (this repo is a fork of it).
+# We intentionally do NOT merge the whole upstream branch, since upstream
+# regenerates its own unfiltered README.md and that would conflict with
+# our Canada/Japan/Europe-filtered version. Instead we just refresh the
+# data file and regenerate our own filtered README from it.
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync_upstream_listings
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.9"
+
+      - name: Fetch upstream listings.json
+        run: |
+          git fetch https://github.com/SimplifyJobs/New-Grad-Positions.git dev --depth=1
+          git show FETCH_HEAD:.github/scripts/listings.json > /tmp/upstream_listings.json
+
+      - name: Update listings.json if changed
+        id: check
+        run: |
+          if ! diff -q /tmp/upstream_listings.json .github/scripts/listings.json > /dev/null 2>&1; then
+            cp /tmp/upstream_listings.json .github/scripts/listings.json
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Regenerate README
+        if: steps.check.outputs.changed == 'true'
+        run: python .github/scripts/update_readmes.py
+
+      - name: Commit and push
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config --local user.email action@github.com
+          git config --local user.name 'Github Action'
+          git add .github/scripts/listings.json README.md
+          git diff-index --quiet HEAD || git commit -m "Sync listings from upstream and regenerate README"
+          git push origin HEAD:dev
