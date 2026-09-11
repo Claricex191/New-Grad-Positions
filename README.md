@@ -5,13 +5,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 73 New Grad Roles by Category
+### Browse 75 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (32)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (5)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (12)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (14)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (18)
 
@@ -98,14 +98,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer New Grad</td>
 <td>Toronto, ON, Canada</td>
 <td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=8157838&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/076b67e3-3500-43b8-9900-446ce4075cec?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer New Grad</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=8130930&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4185d322-e92e-48f6-8b8c-373eaf711a48?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/IXL-Learning?utm_source=GHList&utm_medium=company">IXL Learning</a></strong></td>
@@ -333,7 +333,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Software Engineer</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
@@ -2520,6 +2520,20 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Radius-Limited?utm_source=GHList&utm_medium=company">Radius Telematics</a></strong></td>
+<td>Associate Data Analyst - Data Services & Reporting</td>
+<td>Crewe, UK</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/RadiusLimited/744000148949199?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/12534afb-5080-404a-8863-b4d0909e9aaf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Ideagen?utm_source=GHList&utm_medium=company">Ideagen</a></strong></td>
+<td>Associate AI Data Engineer - Product R&D</td>
+<td>Nottingham, UK</td>
+<td><div align="center"><a href="https://careers-ideagenuk.icims.com/jobs/2905/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d1798dc2-09eb-4a05-a1d8-f47afc3fa95d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Sun-Life?utm_source=GHList&utm_medium=company">Sun Life</a></strong></td>
 <td>Junior Security Data Analyst</td>
 <td>Toronto, ON, Canada</td>
@@ -2594,7 +2608,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Client Analyst Associate - Custom Policy</td>
 <td>Toronto, ON, Canada</br>Markham, ON, Canada</td>
 <td><div align="center"><a href="https://broadridge.wd5.myworkdayjobs.com/careers/job/Toronto-ON/Associate-Client-Analyst---Custom-Policy--Hybrid-_JR1083174?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/103bd900-121d-4b66-bff5-e9e36d5c520f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Jobs-For-Humanity?utm_source=GHList&utm_medium=company">Jobs for Humanity</a></strong></td>
@@ -3860,7 +3874,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/JP-Morgan-Chase?utm_source=GHList&utm_medium=company">JP Morgan Chase</a></strong></td>
 <td>Credit Trading Associate</td>
 <td>London, UK</td>
 <td>🔒</td>
