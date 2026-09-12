@@ -1,96 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Johnson & Johnson",
-        "id": "792fa1b4-a570-49ed-9e6a-36007b97f5fc",
-        "title": "Postdoctoral researcher Omics",
-        "active": false,
-        "date_updated": 1768478903,
-        "date_posted": 1768478903,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Postdoctoral-researcher-Omics--R-D-Data-Science---Digital-Health_R-052122",
-        "locations": [
-            "Ambler, PA",
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Uline",
-        "id": "98000eb8-6fac-4b4d-ac9e-d45c6b013b55",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1768479419,
-        "date_posted": 1768479419,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-Product-Manager_R260585-1",
-        "locations": [
-            "Kenosha, WI",
-            "Waukegan, IL",
-            "Morton Grove, IL",
-            "Pleasant Prairie, WI",
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Agilent Technologies",
-        "id": "ef2e3779-daff-4b86-a0b8-12b8e239e03b",
-        "title": "Field Service Engineer",
-        "active": false,
-        "date_updated": 1768479166,
-        "date_posted": 1768479166,
-        "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/US-LA-Remote-Location/Field-Service-Engineer_4036200",
-        "locations": [
-            "Baton Rouge, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Agilent-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Uline",
-        "id": "b242b0c9-7daa-4f8f-8053-b3d92086bb53",
-        "title": "Corporate Analyst Rotational Program",
-        "active": false,
-        "date_updated": 1768479422,
-        "date_posted": 1768479422,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Corporate-Analyst-Rotational-Program_R260583-1",
-        "locations": [
-            "Kenosha, WI",
-            "Waukegan, IL",
-            "Morton Grove, IL",
-            "Pleasant Prairie, WI",
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "910136cc-bf0c-4c01-abe0-d37a6941f18c",
@@ -1868,24 +1778,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e1d95840-2143-485b-9caa-82dd67ceafb4",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1768472425,
-        "date_posted": 1768472425,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045973",
-        "locations": [
-            "Highland Council, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -357293,7 +357185,7 @@
         "company_name": "Mastercard",
         "id": "b948ef8c-99af-4850-940a-ca3b8506efb3",
         "title": "Software Engineer - Launch Program",
-        "active": true,
+        "active": false,
         "date_updated": 1787580931,
         "date_posted": 1787529600,
         "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1",
@@ -364142,7 +364034,7 @@
         "company_name": "Retell AI",
         "id": "d44c4b34-245b-4951-b4ec-573f93fbe2ac",
         "title": "Forward Deployed Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787815081,
         "date_posted": 1787815052,
         "url": "https://jobs.ashbyhq.com/retell-ai/7a23a933-cc70-43c9-a0d8-9f0c08ea4fd9/application?embed=true",
@@ -364792,7 +364684,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "f1fe163d-fded-4c86-97cf-746b87948551",
         "title": "Graduate Assistant - Research Development",
-        "active": true,
+        "active": false,
         "date_updated": 1787840791,
         "date_posted": 1787788800,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Graduate-Assistant_JR104806-1",
@@ -376872,7 +376764,7 @@
         "company_name": "Energy Transfer Partners",
         "id": "e7257a57-0f8e-4057-a337-d5a11e47d4d2",
         "title": "Associate Analyst - Energy",
-        "active": true,
+        "active": false,
         "date_updated": 1788413227,
         "date_posted": 1787964272,
         "url": "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003312",
@@ -385618,7 +385510,7 @@
         "company_name": "MSX International",
         "id": "553bfdaa-f2cf-4931-8d8e-e76aa76b8f6e",
         "title": "Engineering Garage Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1788449773,
         "date_posted": 1787004894,
         "url": "https://jobs.smartrecruiters.com/MSXInternational/3743990014632066",
@@ -394099,7 +393991,7 @@
         "company_name": "PENN Entertainment",
         "id": "a6ae9be5-921f-418e-96db-0241adad7082",
         "title": "Barback",
-        "active": true,
+        "active": false,
         "date_updated": 1788560282,
         "date_posted": 1788560134,
         "url": "https://careersapply-pennentertainment.icims.com/jobs/145458/job?mobile=true&needsRedirect=false",
@@ -395254,7 +395146,7 @@
         "company_name": "Fresenius Medical Care",
         "id": "497ef304-d09e-453d-b9d1-5731438f9c1a",
         "title": "Patient Care Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1788571143,
         "date_posted": 1788480000,
         "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Norristown-PA/Patient-Care-Technician--Training-Provided_R0268334",
@@ -396250,7 +396142,7 @@
         "company_name": "RTX",
         "id": "e90bb9b3-2e96-47e0-80c1-169bb7a56849",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788860655,
         "date_posted": 1788825600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01871997",
@@ -396664,7 +396556,7 @@
         "company_name": "Texas Instruments",
         "id": "0fe08920-f59e-48bd-b71b-38a95386da0b",
         "title": "Digital Experience Data Analyst - Web Marketing Program",
-        "active": true,
+        "active": false,
         "date_updated": 1788884361,
         "date_posted": 1788884187,
         "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017806",
@@ -401401,7 +401293,7 @@
         "company_name": "Daimler Truck",
         "id": "c010600b-5c7e-4cc2-a27e-72fd2b3c75b8",
         "title": "Integration and Coordination Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789089770,
         "date_posted": 1788998400,
         "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Integration-and-Coordination-Engineer-I_DT-19590-2",
