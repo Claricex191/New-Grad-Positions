@@ -2664,7 +2664,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (109)</summary>
+<summary>🗃️ Inactive roles (108)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -3432,13 +3432,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>United Kingdom</td>
 <td>🔒</td>
 <td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Gore-Mutual-Insurance?utm_source=GHList&utm_medium=company">Gore Mutual Insurance</a></strong></td>
-<td>Associate Data Engineer</td>
-<td>Cambridge, ON, Canada</td>
-<td>🔒</td>
-<td>8mo</td>
 </tr>
 </tbody>
 </table>
