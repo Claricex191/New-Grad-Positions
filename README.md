@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 80 New Grad Roles by Category
+### Browse 81 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (37)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (38)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (4)
 
@@ -79,6 +79,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Xero?utm_source=GHList&utm_medium=company">Xero</a></strong></td>
+<td>Associate Engineer - Back End</td>
+<td>Calgary, AB, Canada</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/xero/8f7f41b3-85db-4029-ab1a-70c88c5dc987/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9860b985-32f5-4061-92b6-53b33bacbe0c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sun-Life?utm_source=GHList&utm_medium=company">Sun Life</a></strong></td>
 <td>Junior Analytics and Automation Developer Student - Winter 2027</td>
@@ -189,7 +196,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Developer New Grad - Integrations</td>
 <td>Toronto, ON, Canada</td>
 <td><div align="center"><a href="https://www.ixl.com/company/jobs?gh_jid=8765751002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c58e3a3d-ab52-4b49-a119-97d65df470fb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Proofpoint?utm_source=GHList&utm_medium=company">Proofpoint</a></strong></td>
