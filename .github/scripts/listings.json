@@ -1,237 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ohio State University",
-        "id": "c6bacbe3-9461-411a-a690-6e6d7e751781",
-        "title": "Research Associate",
-        "active": false,
-        "date_updated": 1769613983,
-        "date_posted": 1769613983,
-        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Wooster-Campus/Research-Associate_R144192-1",
-        "locations": [
-            "Massillon, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Ohio-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TD Bank",
-        "id": "af16a314-32fd-4637-a3a1-6294c8443379",
-        "title": "Technology Graduate Analyst x2 - Belfast/London",
-        "active": false,
-        "date_updated": 1769613726,
-        "date_posted": 1769613726,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Belfast-United-Kingdom/Technology-Graduate-Analyst-x2---Belfast-London_R_1466599",
-        "locations": [
-            "London, UK",
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Memorial Hermann",
-        "id": "665e8165-e750-4a7c-a743-faad153e7126",
-        "title": "Data Scientist",
-        "active": false,
-        "date_updated": 1769613536,
-        "date_posted": 1769613536,
-        "url": "https://memorialhermann.wd5.myworkdayjobs.com/external/job/TMCChildrens-Hospital/Data-Scientist_100176444",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Memorial-Hermann",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e1e67a74-79e9-4f2d-8c71-ea4c60b55b19",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769613158,
-        "date_posted": 1769613158,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047333",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "98d79251-1f17-4c71-86d2-21c3c55c2c5c",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769613145,
-        "date_posted": 1769613145,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047336",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "56ffab08-30a5-4e0a-8e8c-b4b70d317bc9",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769613125,
-        "date_posted": 1769613125,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046580",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2609a4a0-6902-433b-a74c-24254f11d9e3",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769613147,
-        "date_posted": 1769613147,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047331",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "1be444e1-2e6b-4ce8-b75e-388b8306b228",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769613145,
-        "date_posted": 1769613145,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047307",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "19c269b3-7261-44f0-8d5a-dae242600273",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769613131,
-        "date_posted": 1769613131,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047332",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mass General Brigham",
-        "id": "6b8813ec-b079-437f-8642-319870dfec84",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1769615229,
-        "date_posted": 1769615229,
-        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Charlestown-MA/Data-Analyst_RQ4048516",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Spectrum Control",
-        "id": "db3921ba-e93e-4ea7-820b-17f9ccbe48ad",
-        "title": "Production Operator",
-        "active": false,
-        "date_updated": 1769615150,
-        "date_posted": 1769615150,
-        "url": "https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Great-Yarmouth-UK/Production-Operator_JR101270",
-        "locations": [
-            "Norwich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/673d4af5-d1fd-4cb6-b32e-e8897216cb37",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CVS Health",
-        "id": "c347d76e-ad1a-4066-a16a-79a6a40ca751",
-        "title": "Associate Data Engineer",
-        "active": false,
-        "date_updated": 1769616088,
-        "date_posted": 1769616088,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Associate-Data-Engineer_R0821166",
-        "locations": [
-            "Wheeling, IL",
-            "Hartford, CT",
-            "NYC",
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "TD Bank",
         "id": "82d9cd61-3084-4b6b-80da-cef3a6830149",
@@ -1894,26 +1663,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Agilent Technologies",
-        "id": "04bed8e0-0187-4d57-b226-86993e04e6c7",
-        "title": "Graduate Field Service Engineer - South West UK - Chromatography and Spectroscopy",
-        "active": false,
-        "date_updated": 1769615446,
-        "date_posted": 1769615446,
-        "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/UK-Remote-Location-Harwell/Graduate-Field-Service-Engineer---South-West-UK---Chromatography-and-Spectroscopy_4034596",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Agilent-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -54659,26 +54408,6 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/Comstock-Companies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Scientific Research Corporation",
-        "id": "818b9dcf-ef5a-4efe-8bc4-a1a0523013bc",
-        "title": "Software Developer - Entry",
-        "active": false,
-        "date_updated": 1772443162,
-        "date_posted": 1769613051,
-        "url": "https://careers-scires.icims.com/jobs/10791/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "North Charleston, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Scientific-Research-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -240243,7 +239972,7 @@
         "company_name": "Orennia",
         "id": "63f0b134-ee9c-4af6-89fc-9bf1aa4e885a",
         "title": "Power & Renewables Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1783417788,
         "date_posted": 1783416113,
         "url": "https://boards.greenhouse.io/orennia/jobs/5251401008",
@@ -243761,7 +243490,7 @@
         "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
         "id": "2ef54b60-3789-4c6c-9334-f82a476cfc90",
         "title": "Application Developer 1 - Power Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1783548743,
         "date_posted": 1783548322,
         "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Offices-at-Vernon-Place/Application-Developer-I--Power-Platform_JR222607",
@@ -300855,7 +300584,7 @@
         "company_name": "Texas Instruments",
         "id": "c96eee58-f235-4392-a390-c537e96daebf",
         "title": "Analog Design Engineer - Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1785834727,
         "date_posted": 1785834414,
         "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016939",
@@ -318116,7 +317845,7 @@
         "company_name": "Guidehouse",
         "id": "172b703e-8433-4778-8e7c-9652e1e27fa5",
         "title": "Public Health Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786572543,
         "date_posted": 1786492800,
         "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Public-Health-Data-Engineer_43271-1",
@@ -346416,7 +346145,7 @@
         "company_name": "GetHearth.com",
         "id": "3588169e-17ec-4faf-a06f-498add51cc22",
         "title": "Junior GTM Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787820543,
         "date_posted": 1785334553,
         "url": "https://ats.rippling.com/hearth-careers/jobs/1c9a88a3-3dde-4081-a4d4-293af5af6ea1",
@@ -351369,7 +351098,7 @@
         "company_name": "OneOncology",
         "id": "be6a517c-94d6-4f8e-b35e-335a26f37f11",
         "title": "Analytics & Data Products Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788202008,
         "date_posted": 1788134400,
         "url": "https://oneoncology.wd1.myworkdayjobs.com/OneOncology/job/United-States/Analyst--Analytics---Data-Products_R-0000021867",
@@ -351690,7 +351419,7 @@
         "company_name": "Pennymac",
         "id": "c6bdfac7-c89d-4e90-8fc5-b26e0b45f8ea",
         "title": "Digital Technology Organization Rotational Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788209101,
         "date_posted": 1788203516,
         "url": "https://careers.pennymac.com/jobs/40358?icims=1",
@@ -367109,7 +366838,7 @@
         "company_name": "Diversified Energy",
         "id": "4229c186-2e45-46d3-872a-d28f28ede1dc",
         "title": "Marketing Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788443298,
         "date_posted": 1787171384,
         "url": "https://careers.div.energy/jobs/2675?icims=1",
@@ -383840,7 +383569,7 @@
         "company_name": "Kyndryl",
         "id": "8bfbcc8a-0998-4ac4-9d05-5df9644094a4",
         "title": "Associate Product Manager - Agentic Modernization",
-        "active": true,
+        "active": false,
         "date_updated": 1789136821,
         "date_posted": 1789084800,
         "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/CIO-KPop-Dallas-US152527/Associate-Product-Manager---Agentic-Modernization_R-67492-1",
@@ -384858,7 +384587,7 @@
         "company_name": "Protech Group",
         "id": "7cb90b67-c1af-4e1f-a9a9-e50dc88da299",
         "title": "Junior Application Developer - Database Orientation",
-        "active": true,
+        "active": false,
         "date_updated": 1789170968,
         "date_posted": 1789170641,
         "url": "https://protechgroup.applytojob.com/apply/8TVPaSI84s/Programmeur-Junior-Dveloppeur-Applicatif-Orientation-Bases-De-Donnes",
@@ -386338,7 +386067,7 @@
         "company_name": "RTX",
         "id": "065d2da2-5763-4c60-b6bf-8905264983ce",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789411713,
         "date_posted": 1789344000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01874333",
@@ -387239,7 +386968,7 @@
         "company_name": "Micron Technology",
         "id": "b3a4e929-0297-4ade-a657-df03d3319d9e",
         "title": "HBM Design Architect New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1789424612,
         "date_posted": 1789344000,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---HBM-Design-Architect---MS-or-PhD_JR111450",
@@ -387260,7 +386989,7 @@
         "company_name": "Micron Technology",
         "id": "e1b9ccaa-f9f2-4ca4-9214-4e2a0d51dffe",
         "title": "HBM SoC Design Engineer/Architect New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1789424604,
         "date_posted": 1789344000,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/New-College-Grad---HBM-SoC-Design-Engineer-Architect_JR111456",
@@ -395085,7 +394814,7 @@
         "company_name": "WME Express",
         "id": "0ca6b8af-c098-4160-b624-7ee0eca4a249",
         "title": "Vehicle Camera Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1790030341,
         "date_posted": 1790029220,
         "url": "https://wmeexpress.applytojob.com/apply/uma8763XhE/Vehicle-Camera-Operator",
