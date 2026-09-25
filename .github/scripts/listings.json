@@ -1,132 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ef9bdbbc-dc08-4592-8556-56900e4f75ab",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769595906,
-        "date_posted": 1769595906,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047308",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cummins",
-        "id": "af267ce7-72cb-4bb2-ba0b-1b93364e289e",
-        "title": "Graduate-Product Engineer",
-        "active": false,
-        "date_updated": 1769595957,
-        "date_posted": 1769595957,
-        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2422377",
-        "locations": [
-            "Canterbury, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cummins",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sainsbury's",
-        "id": "7624d4dd-a4f5-4937-aa1a-f155575465e2",
-        "title": "Associate Data Scientist",
-        "active": false,
-        "date_updated": 1769595919,
-        "date_posted": 1769595919,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047127",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "57b656bd-bd2b-40b3-911c-10d0fefb4986",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769595891,
-        "date_posted": 1769595891,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047313",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AtkinsR\u00e9alis",
-        "id": "67a80672-e295-46b8-a469-bc75838cbdd6",
-        "title": "Water Quality Modeller",
-        "active": false,
-        "date_updated": 1769603629,
-        "date_posted": 1769603629,
-        "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/GBBirmingham---Chamberlain-Square/Water-Quality-Modeller_R-144603",
-        "locations": [
-            "London, UK",
-            "Croydon, UK",
-            "Cardiff, UK",
-            "Leeds, UK",
-            "Belfast, UK",
-            "Birmingham, UK",
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/AtkinsRealis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Walmart",
-        "id": "bb13930f-304b-4c91-9c1a-95a243309800",
-        "title": "Staff - Data Scientist",
-        "active": false,
-        "date_updated": 1769608952,
-        "date_posted": 1769608952,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME--USA--Staff--Data-Scientist_R-2350734",
-        "locations": [
-            "Bentonville, AR",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Ohio State University",
         "id": "c6bacbe3-9461-411a-a690-6e6d7e751781",
@@ -196810,7 +196684,7 @@
         "company_name": "Leonardo",
         "id": "a4f8108a-b8e0-440e-8e67-3084664f7d44",
         "title": "Embedded Design Engineer - FPGA Academy",
-        "active": true,
+        "active": false,
         "date_updated": 1780652161,
         "date_posted": 1780652120,
         "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Embedded-Design-Engineer--FPGA-Academy-_R0029850",
@@ -208645,7 +208519,7 @@
         "company_name": "AlphaSights",
         "id": "d6d02f1d-f30b-49c8-9c02-5212411721fb",
         "title": "Graduate Product Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781273525,
         "date_posted": 1781273260,
         "url": "https://www.alphasights.com/careers/open-roles?gh_jid=7995035",
@@ -238718,7 +238592,7 @@
         "company_name": "Capital One",
         "id": "cb80a471-e8b3-42e2-9637-705360e8b8dd",
         "title": "Product Development Program Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1783347121,
         "date_posted": 1783346926,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Program-Associate---2027_R244269-1",
@@ -245376,7 +245250,7 @@
         "company_name": "Leidos",
         "id": "4ab2be7c-c405-42fa-9dbf-cb0e5ff6a73d",
         "title": "Software Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783559934,
         "date_posted": 1783559547,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Engineer_R-00186934-1",
@@ -295380,7 +295254,7 @@
         "company_name": "CWP Energy",
         "id": "8f43064f-52b2-499d-b908-003f3f6e989e",
         "title": "Junior Power Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1785737701,
         "date_posted": 1785737513,
         "url": "https://mcgillstlaurent.applytojob.com/apply/WVsPWyR55T/Junior-Power-Trader-Cohorte-2027",
@@ -305814,7 +305688,7 @@
         "company_name": "Accenture",
         "id": "61b9c823-c168-4748-9d94-8ae5a407a3da",
         "title": "AI Native Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1786010822,
         "date_posted": 1784160000,
         "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Native-Software-Engineering_R00343768-1",
@@ -344793,7 +344667,7 @@
         "company_name": "Salesforce",
         "id": "bde662ce-92c7-454f-baa5-c0f859f3f0aa",
         "title": "AI Builder - Emerging Talent",
-        "active": true,
+        "active": false,
         "date_updated": 1787760082,
         "date_posted": 1787702400,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR357678-1",
@@ -345639,7 +345513,7 @@
         "company_name": "Salesforce",
         "id": "3a25150a-382f-458a-8c79-deb248a24749",
         "title": "AI Builder - Emerging Talent",
-        "active": true,
+        "active": false,
         "date_updated": 1787782594,
         "date_posted": 1787702400,
         "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR357678",
@@ -375448,7 +375322,7 @@
         "company_name": "UL Solutions",
         "id": "77a40ad4-e59d-4be4-b308-809c8d32f9a9",
         "title": "Laboratory Technician - Specific Absorption Rate",
-        "active": true,
+        "active": false,
         "date_updated": 1788509701,
         "date_posted": 1781082152,
         "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/8175",
@@ -393363,7 +393237,7 @@
         "company_name": "Chewy",
         "id": "0dc73614-450c-4591-9cc6-2527c420ff41",
         "title": "Category Analyst New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1789741631,
         "date_posted": 1789689600,
         "url": "https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Plantation-FL/Category-Analyst-New-Graduate-Program_R30772",
@@ -393805,7 +393679,7 @@
         "company_name": "Toyota",
         "id": "cc7c4f99-00f9-44a9-9e51-dc2f9d993851",
         "title": "Software Engineer - Early Career Professional",
-        "active": true,
+        "active": false,
         "date_updated": 1789771112,
         "date_posted": 1789689600,
         "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10325071",
@@ -394614,7 +394488,7 @@
         "company_name": "ASOS plc",
         "id": "8f7689d2-5098-42e8-8994-ab9ecfcc3f4b",
         "title": "Associate Analytics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789999751,
         "date_posted": 1789999635,
         "url": "https://jobs.smartrecruiters.com/ASOS/744000150689619",
@@ -395106,7 +394980,7 @@
         "company_name": "Leidos",
         "id": "3bbcfa63-20ac-4203-ae5f-f10e9a89efb6",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790031014,
         "date_posted": 1789948800,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00192652",
@@ -395311,7 +395185,7 @@
         "company_name": "Cox",
         "id": "96453d18-731d-4613-bb72-8b197bfbbcdb",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790030341,
         "date_posted": 1789948800,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202682766",
@@ -399564,5 +399438,196 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sim",
+        "id": "6b75f3dd-a8cd-46d9-a5ef-8f163c2be9fd",
+        "title": "Founding Design Engineer",
+        "active": true,
+        "date_updated": 1790328062,
+        "date_posted": 1782770897,
+        "url": "https://jobs.ashbyhq.com/sim/2aae9d88-23ae-4381-9591-8fe58574f86c/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sim-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GliaCell Technologies",
+        "id": "6521a00f-8b47-4195-a3ce-bdb80befcc30",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1790327528,
+        "date_posted": 1785737503,
+        "url": "https://gliacelltechnologies.applytojob.com/apply/F5wpzZFcry/Software-Engineer",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/GliaCell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Winton",
+        "id": "aba193fc-7583-4aee-b734-cd9b12003e8c",
+        "title": "Quantitative Developer - Fundamental Commodities",
+        "active": true,
+        "date_updated": 1790329870,
+        "date_posted": 1790329539,
+        "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Winton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "WPP",
+        "id": "1bc02942-6a6f-4844-9fc3-a3338f6c3528",
+        "title": "Product Manager - Performance AI",
+        "active": true,
+        "date_updated": 1790345882,
+        "date_posted": 1790345731,
+        "url": "https://job-boards.greenhouse.io/wpp/jobs/8813051002",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/WPP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "d8b0a818-ae8f-42a9-b552-3d61c1542683",
+        "title": "Neural Engineer",
+        "active": true,
+        "date_updated": 1790346181,
+        "date_posted": 1790345705,
+        "url": "https://careers.jhuapl.edu/jobs/60068?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "8e324ffa-ab4d-4c89-9ae7-ddb325e42ea7",
+        "title": "Audio Rater - Generalist - English",
+        "active": true,
+        "date_updated": 1790345999,
+        "date_posted": 1790345571,
+        "url": "https://jobs.lever.co/weloglobal/a359138d-45e6-4e40-8818-9ea8c05c516f/apply",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "86767269-2fa8-4a5d-ac9c-845e5dd9f74a",
+        "title": "Audio Rater",
+        "active": true,
+        "date_updated": 1790345981,
+        "date_posted": 1790345540,
+        "url": "https://jobs.lever.co/weloglobal/444db572-9d62-49b4-a128-9988df73f571/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "eae0ee2d-9468-4d49-8f52-11431f4b81f8",
+        "title": "Audio Rater - Generalist - English",
+        "active": true,
+        "date_updated": 1790346004,
+        "date_posted": 1790345540,
+        "url": "https://jobs.lever.co/weloglobal/827dd5b6-033a-4d6b-84aa-bff3da5a4bbf/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "659789b0-9058-4fe5-8e23-fa681b7a609e",
+        "title": "Quality Assurance Audio Rater - British English",
+        "active": true,
+        "date_updated": 1790345980,
+        "date_posted": 1790345571,
+        "url": "https://jobs.lever.co/weloglobal/3b07a9ab-dde4-4d79-876e-226ba4762b06/apply",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "12a8e91a-ba38-4d9b-9ed5-2ab53af54c62",
+        "title": "Associate Integration/Test Engineering",
+        "active": true,
+        "date_updated": 1790345731,
+        "date_posted": 1790345314,
+        "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-IntegrationTest-Engineering-FL-32901/1433821200/?ats=successfactors",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
