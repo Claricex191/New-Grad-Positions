@@ -84,7 +84,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate Engineer - Back End</td>
 <td>Calgary, AB, Canada</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/xero/8f7f41b3-85db-4029-ab1a-70c88c5dc987/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9860b985-32f5-4061-92b6-53b33bacbe0c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sun-Life?utm_source=GHList&utm_medium=company">Sun Life</a></strong></td>
@@ -182,21 +182,21 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer New Grad</td>
 <td>Toronto, ON, Canada</td>
 <td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=8157838&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/076b67e3-3500-43b8-9900-446ce4075cec?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer New Grad</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://stripe.com/jobs/search?gh_jid=8130930&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4185d322-e92e-48f6-8b8c-373eaf711a48?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/IXL-Learning?utm_source=GHList&utm_medium=company">IXL Learning</a></strong></td>
 <td>Software Developer New Grad - Integrations</td>
 <td>Toronto, ON, Canada</td>
 <td><div align="center"><a href="https://www.ixl.com/company/jobs?gh_jid=8765751002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c58e3a3d-ab52-4b49-a119-97d65df470fb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Proofpoint?utm_source=GHList&utm_medium=company">Proofpoint</a></strong></td>
@@ -361,7 +361,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior AI & Automation Specialist</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
@@ -508,7 +508,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior .NET Engineer - .NET Backend</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
@@ -1397,7 +1397,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate Software Engineer</td>
 <td>Mississauga, ON, Canada</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Crowdstrike?utm_source=GHList&utm_medium=company">🔥 Crowdstrike</a></strong></td>
@@ -1996,7 +1996,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate Product Manager / Associate Game Producer - Casino Games</td>
 <td>Toronto, ON, Canada</br>Hollywood, FL</td>
 <td><div align="center"><a href="https://hardrockdigital.recruitee.com/o/associate-product-manager-associate-game-producer-casino-games?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8116df87-b03e-4936-a2bd-5e3550fb1cb7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Subsea-Craft?utm_source=GHList&utm_medium=company">Subsea Craft</a></strong></td>
@@ -2619,7 +2619,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate Data Analyst - Data Services & Reporting</td>
 <td>Crewe, UK</td>
 <td>🔒</td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sun-Life?utm_source=GHList&utm_medium=company">Sun Life</a></strong></td>
@@ -3873,7 +3873,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Software Engineer - Research & Development Engineering</td>
 <td>Wimborne Minster, Wimborne, UK</td>
 <td><div align="center"><a href="https://eaton.eightfold.ai/careers/job/687239270493?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ad94e698-73da-45ef-a454-9ae7ba1a268b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-UK?utm_source=GHList&utm_medium=company">General Dynamics UK</a></strong></td>
