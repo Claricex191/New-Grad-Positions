@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d4ce2d2b-eead-43a4-aa65-92fcf9d83d82",
-        "title": "Nightshift Trading Assistant",
-        "active": false,
-        "date_updated": 1772102538,
-        "date_posted": 1772102538,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050817",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Uline",
-        "id": "4305486a-d429-4b22-81a2-badb6c84ae70",
-        "title": "Associate Ecommerce Data Analyst",
-        "active": false,
-        "date_updated": 1772110548,
-        "date_posted": 1772110548,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-eCommerce-Data-Analyst_R261735-1",
-        "locations": [
-            "Kenosha, WI",
-            "Waukegan, IL",
-            "Morton Grove, IL",
-            "Pleasant Prairie, WI",
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Walmart",
         "id": "21d6d49c-1b58-4c06-b263-e017f0133313",
@@ -182281,7 +182239,7 @@
         "company_name": "Micron Technology",
         "id": "c2582b57-89c6-4642-a9f2-b5a0b7e3678a",
         "title": "New College Grad - Product Yield Enhancement Engineer - High Bandwidth Memory",
-        "active": false,
+        "active": true,
         "date_updated": 1782988284,
         "date_posted": 1782956886,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Product-Yield-Enhancement-Engineer--HBM_JR104805",
@@ -333077,7 +333035,7 @@
         "company_name": "RTX",
         "id": "8edf16f9-31db-4a81-b28d-bfabbbdece38",
         "title": "Hardware In the Loop Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789411754,
         "date_posted": 1789344000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565",
@@ -348091,7 +348049,7 @@
         "company_name": "Applied Materials",
         "id": "dfd0d59f-a419-45ea-ada0-92b1316ddcbe",
         "title": "Physicist/Scientist New Grad - 2027 Summer Cohort",
-        "active": true,
+        "active": false,
         "date_updated": 1790702358,
         "date_posted": 1789430400,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad---Physicist-Scientist-III---PhD--2027-Summer-Cohort-_R2627969",
@@ -350514,7 +350472,7 @@
         "company_name": "Torus",
         "id": "fefd9fb3-c182-4db8-bb1f-8a467a989de8",
         "title": "Test Engineer Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1790808045,
         "date_posted": 1790806994,
         "url": "https://ats.rippling.com/torus/jobs/9f017330-7256-4a17-b4e8-d7bc3ce13ad8",
@@ -362718,7 +362676,7 @@
         "company_name": "Critical Response Group",
         "id": "9bd996c7-37aa-436a-b394-85ec16b51869",
         "title": "Field Mapping Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1791371274,
         "date_posted": 1790720527,
         "url": "https://ats.rippling.com/critical-response-group/jobs/4285f96c-c3f4-434c-bcf3-3efd5dc50739",
@@ -362982,7 +362940,7 @@
         "company_name": "Leidos",
         "id": "4dbd811e-0477-41e7-b085-cba2d9e1cb62",
         "title": "Junior Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791384748,
         "date_posted": 1790899200,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Junior-Systems-Engineer_R-00193784",
@@ -363711,7 +363669,7 @@
         "company_name": "Leidos",
         "id": "71977795-8df4-455b-a027-57f95560a70b",
         "title": "Defensive Cyber Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1791413240,
         "date_posted": 1791331200,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Lawton-OK/Defensive-Cyber-Software-Developer_R-00194120",
@@ -366611,7 +366569,7 @@
         "company_name": "GlobalFoundries",
         "id": "b0755243-0db2-4f3a-99fa-5d6544dc202b",
         "title": "Principal Engineer - Device Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1791584486,
         "date_posted": 1791504000,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Principal-Engineer--Device-Engineering--2027-New-College-Graduate-_JR-2604445",
@@ -369152,7 +369110,7 @@
         "company_name": "HR&A Advisors",
         "id": "c3632d75-fd9d-4073-a4cd-d3721cfaf5d4",
         "title": "Data Science and Analytics Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1791888481,
         "date_posted": 1786574690,
         "url": "https://hraadvisors.applytojob.com/apply/TsAhPSZWRW/Data-Science-And-Analytics-Specialist",
@@ -372191,7 +372149,7 @@
         "company_name": "Boeing",
         "id": "172bdac1-ef4f-4891-8afb-b8676d403818",
         "title": "Entry Level Software Engineer-Developer - Development",
-        "active": true,
+        "active": false,
         "date_updated": 1792017732,
         "date_posted": 1791936000,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577",
@@ -373309,7 +373267,7 @@
         "company_name": "Leidos",
         "id": "af6b5279-66d6-4fce-9bfe-c98c7579acf3",
         "title": "GIS Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1792102213,
         "date_posted": 1792022400,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/10606-Raleigh-NC-Home-Office/GIS-Technician_R-00194660",
@@ -374611,7 +374569,7 @@
         "company_name": "Northrop Grumman",
         "id": "88e2232b-48ee-46cd-b16c-5a73c3ed9208",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792190291,
         "date_posted": 1792108800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Morrisville-NC_R10256380",
@@ -381089,7 +381047,7 @@
         "company_name": "SAIC",
         "id": "3bf8d80d-6f9a-4ec3-972f-1dc57c45db7e",
         "title": "SCA Engineering Technician 4",
-        "active": true,
+        "active": false,
         "date_updated": 1792707092,
         "date_posted": 1792706902,
         "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618316",
@@ -384764,7 +384722,7 @@
         "company_name": "Prolific",
         "id": "d714c848-6ac9-4b7d-bdaa-ee62d5f0c31a",
         "title": "AI Trainer",
-        "active": true,
+        "active": false,
         "date_updated": 1792761924,
         "date_posted": 1789636499,
         "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4978536101",
@@ -386682,7 +386640,7 @@
         "company_name": "Regal Rexnord",
         "id": "f9362869-73aa-4cd5-a7a1-de352622465b",
         "title": "Electronics Lab Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792775976,
         "date_posted": 1792713600,
         "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Radford-Virginia-United-States/Electronics-Lab-Technician-I_R26_04131-1",
@@ -387906,6 +387864,122 @@
             "Long Beach, CA"
         ],
         "company_url": "https://simplify.jobs/c/VastSpace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dell Technologies",
+        "id": "4c051e4b-6347-4cf8-9fb7-abfc0d3bb7db",
+        "title": "AI Performance Engineer",
+        "active": true,
+        "date_updated": 1792830962,
+        "date_posted": 1792706725,
+        "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299245",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dell Technologies",
+        "id": "e47a73e2-c0e4-4b76-90a4-bd1bced3be1d",
+        "title": "AI Performance Engineer",
+        "active": true,
+        "date_updated": 1792834381,
+        "date_posted": 1792706727,
+        "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300865",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "9ab92ebe-2d68-49c3-9ab3-0fad2d7eae2e",
+        "title": "Electrical Design and Integration Engineer",
+        "active": true,
+        "date_updated": 1792834967,
+        "date_posted": 1792540800,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design---Integration-Engineer_R-00195117",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Encore Auctions",
+        "id": "ea8ee1a5-5020-4aa2-9bd7-6371e6f23ccc",
+        "title": "Technical Hardware Specialist",
+        "active": true,
+        "date_updated": 1792834949,
+        "date_posted": 1788993127,
+        "url": "https://ats.rippling.com/encore-auctions/jobs/ada6afa2-0739-4c9d-b8ae-cb61f706978a",
+        "locations": [
+            "London, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Encore-Auctions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Medra",
+        "id": "fdf80d73-de6e-4798-b6c4-e5da733ed881",
+        "title": "Systems Test Engineer",
+        "active": true,
+        "date_updated": 1792835461,
+        "date_posted": 1785132609,
+        "url": "https://jobs.ashbyhq.com/medraai/cfaca7f4-d35b-4b5e-a5f4-5dd08abc8b5d/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Medra",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "eff6e46f-68bb-46cd-b491-ae901b415a6d",
+        "title": "Engineer 1 - Software Engineer - Test Engineering",
+        "active": true,
+        "date_updated": 1792846842,
+        "date_posted": 1792713600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01883521",
+        "locations": [
+            "Burnsville, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
