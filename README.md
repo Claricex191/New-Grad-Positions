@@ -5,13 +5,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 98 New Grad Roles by Category
+### Browse 94 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (58)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (55)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (10)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (14)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (13)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (10)
 
@@ -353,13 +353,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Atlassian?utm_source=GHList&utm_medium=company">🔥 Atlassian</a></strong></td>
-<td>Software Engineer New Grad - 2027 Graduate</td>
-<td>Burnaby, BC, Canada</br>Vancouver, BC, Canada</br>Richmond, BC, Canada</td>
-<td><div align="center"><a href="https://campus-globalcareers-atlassian.icims.com/jobs/26070/software-engineer%2c-2027-graduate-canada/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/14d43ff5-f113-479b-9fc2-6416dfa12f99?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Stripe?utm_source=GHList&utm_medium=company">🔥 Stripe</a></strong></td>
 <td>Software Engineer New Grad</td>
 <td>Toronto, ON, Canada</td>
@@ -385,13 +378,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Development Engineer - Early Career</td>
 <td>Vancouver, BC, Canada</td>
 <td><div align="center"><a href="https://amazon.jobs/en/jobs/10502743/software-development-engineer-early-career-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/00e9ac82-474b-46a0-bc46-aa9e240f3efd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/CPI-Card-Group?utm_source=GHList&utm_medium=company">CPI Card Group</a></strong></td>
-<td>Software Developer 1</td>
-<td>Norwich, UK</td>
-<td><div align="center"><a href="https://careersuk-cpicardgroup.icims.com/jobs/11208/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7d777c12-dbb3-4b9e-b13d-d5156069bdd1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>2mo</td>
 </tr>
 <tr>
@@ -458,13 +444,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Applied-Systems-Inc?utm_source=GHList&utm_medium=company">Applied Systems, Inc.</a></strong></td>
-<td>Associate Software Engineer</td>
-<td>Toronto, ON, Canada</br>Dallas, TX</br>Chicago, IL</td>
-<td><div align="center"><a href="https://careers-appliedsystems.icims.com/jobs/7318/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/51ca28a3-5501-448a-a399-6a1d14a4fcda?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>3mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Everfox?utm_source=GHList&utm_medium=company">Everfox</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Hereford, UK</td>
@@ -490,7 +469,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (214)</summary>
+<summary>🗃️ Inactive roles (217)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -672,6 +651,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Atlassian?utm_source=GHList&utm_medium=company">🔥 Atlassian</a></strong></td>
+<td>Software Engineer New Grad - 2027 Graduate</td>
+<td>Burnaby, BC, Canada</br>Vancouver, BC, Canada</br>Richmond, BC, Canada</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
 <td>Associate Software Engineer</td>
 <td>Toronto, ON, Canada</td>
@@ -773,6 +759,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company">Capital One</a></strong></td>
 <td>Associate Software Engineer New Grad - Card Expansion - Software Engineer</td>
 <td>Toronto, ON, Canada</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/CPI-Card-Group?utm_source=GHList&utm_medium=company">CPI Card Group</a></strong></td>
+<td>Software Developer 1</td>
+<td>Norwich, UK</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
@@ -1088,6 +1081,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
 <td>Associate Director Senior Software Engineer - .Net C#</td>
 <td>Nova Scotia, Canada</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Applied-Systems-Inc?utm_source=GHList&utm_medium=company">Applied Systems, Inc.</a></strong></td>
+<td>Associate Software Engineer</td>
+<td>Toronto, ON, Canada</br>Dallas, TX</br>Chicago, IL</td>
 <td>🔒</td>
 <td>3mo</td>
 </tr>
@@ -2534,13 +2534,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Ideagen?utm_source=GHList&utm_medium=company">Ideagen</a></strong></td>
-<td>Associate AI Data Engineer - Product R&D</td>
-<td>Nottingham, UK</td>
-<td><div align="center"><a href="https://careers-ideagenuk.icims.com/jobs/2905/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d1798dc2-09eb-4a05-a1d8-f47afc3fa95d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/WSP?utm_source=GHList&utm_medium=company">WSP</a></strong></td>
 <td>Junior Geoscientist / Geochemist / Data Scientist</td>
 <td><details><summary><strong>4 locations</strong></summary>Calgary, AB, Canada</br>Edmonton, AB, Canada</br>Whitehorse, YT, Canada</br>Vancouver, BC, Canada</details></td>
@@ -2573,7 +2566,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (113)</summary>
+<summary>🗃️ Inactive roles (114)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2660,6 +2653,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company">Capital One</a></strong></td>
 <td>Data Scientist New Grad</td>
 <td>Toronto, ON, Canada</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Ideagen?utm_source=GHList&utm_medium=company">Ideagen</a></strong></td>
+<td>Associate AI Data Engineer - Product R&D</td>
+<td>Nottingham, UK</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
