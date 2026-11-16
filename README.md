@@ -5,13 +5,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 108 New Grad Roles by Category
+### Browse 106 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (65)
 
-📱 **[Product Management](#-product-management-new-grad-roles)** (9)
+📱 **[Product Management](#-product-management-new-grad-roles)** (8)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (14)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (13)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (7)
 
@@ -80,18 +80,25 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company">American Express</a></strong></td>
+<td>Campus Undergraduate Full-Time Engineer - Software Engineer 1</td>
+<td>Toronto, ON, Canada</td>
+<td><div align="center"><a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1f5243e7-418c-45e0-a517-5603c9d3eae6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company">Intuit</a></strong></td>
 <td>Graduate Software Engineer 1</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://jobs.intuit.com/job/london/graduate-software-engineer-1/27595/103261389616?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/fe5c9cde-777b-4676-b7a4-08b05af7a722?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Affirm?utm_source=GHList&utm_medium=company">Affirm</a></strong></td>
 <td>Software Engineer 1 - Backend - Continuous Delivery</td>
 <td>Remote in Canada</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/affirm/jobs/8181185003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/95469101-e73c-46af-9d76-d8bc62f325fe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
@@ -105,7 +112,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer New Grad</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=8847747002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9910f1e1-3019-4617-bdba-6c5ee8d8396a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ocado-Group?utm_source=GHList&utm_medium=company">Ocado Group</a></strong></td>
@@ -140,14 +147,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Developer 1</td>
 <td>Toronto, ON, Canada</td>
 <td><div align="center"><a href="https://jobs.intuit.com/job/toronto/software-developer-1/27595/102521439744?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b5b550d8-07b7-48d1-a1ba-9aa09a1cc8c1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Developer 1 - API Management Platform</td>
 <td>Toronto, ON, Canada</td>
 <td><div align="center"><a href="https://jobs.intuit.com/job/toronto/software-developer-1-api-management-platform/27595/102521440064?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a279fba6-3495-4e9c-ac89-769269250310?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sierra?utm_source=GHList&utm_medium=company">Sierra</a></strong></td>
@@ -161,13 +168,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Vancouver, BC, Canada</td>
 <td><div align="center"><a href="https://careers.planview.com/jobs/5182?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f62e793a-1644-4b8d-a76d-ed67face4722?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>20d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/LexisNexis-Risk-Solutions?utm_source=GHList&utm_medium=company">LexisNexis Risk Solutions</a></strong></td>
-<td>Software Engineer New Grad</td>
-<td>London, UK</td>
-<td><div align="center"><a href="https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/London-Wall/Tech-Accelerate-Graduate-Program---Software-Engineer_R119818?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b5e38f93-270f-4bb5-ac95-6f7942c8fc57?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>21d</td>
 </tr>
 <tr>
@@ -182,14 +182,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Full Stack Software Engineer New Grad</td>
 <td>Remote in USA</br>Remote in Canada</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1fac2631-0a51-44d0-9af9-209c670e1742?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/WTW?utm_source=GHList&utm_medium=company">WTW</a></strong></td>
 <td>Software Developer New Grad</td>
 <td>Reigate, UK</td>
 <td><div align="center"><a href="https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606689?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/bf357e7e-5047-410b-a11a-b939b5f31b63?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Graphcore?utm_source=GHList&utm_medium=company">Graphcore</a></strong></td>
@@ -217,7 +217,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Full Stack Engineer</td>
 <td>London, UK</br>Netherlands</td>
 <td><div align="center"><a href="https://jobs.lever.co/bloomon/7f832927-5c83-4fe9-9e7a-52de0fea57dd/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/caed4dae-1871-4dfa-b062-58a5944c98e0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Wonderbrands?utm_source=GHList&utm_medium=company">Wonderbrands</a></strong></td>
@@ -539,7 +539,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (205)</summary>
+<summary>🗃️ Inactive roles (206)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -557,7 +557,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Software Engineer</td>
 <td>Toronto, ON, Canada</br>Remote in USA</td>
 <td>🔒</td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Genesys?utm_source=GHList&utm_medium=company">Genesys</a></strong></td>
@@ -595,11 +595,18 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>21d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/LexisNexis-Risk-Solutions?utm_source=GHList&utm_medium=company">LexisNexis Risk Solutions</a></strong></td>
+<td>Software Engineer New Grad</td>
+<td>London, UK</td>
+<td>🔒</td>
+<td>21d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Sierra?utm_source=GHList&utm_medium=company">Sierra</a></strong></td>
 <td>Software Engineer New Grad - Agent</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Morningstar?utm_source=GHList&utm_medium=company">Morningstar</a></strong></td>
@@ -714,7 +721,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/TripAdvisor?utm_source=GHList&utm_medium=company">TripAdvisor</a></strong></td>
+<td>↳</td>
 <td>Software Engineer 1</td>
 <td>Oxford, UK</td>
 <td>🔒</td>
@@ -2041,13 +2048,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Clairo?utm_source=GHList&utm_medium=company">Clairo</a></strong></td>
-<td>Associate Product Manager</td>
-<td>Remote in USA</br>Remote in Canada</td>
-<td><div align="center"><a href="https://clarioclinical.wd1.myworkdayjobs.com/en-US/clarioclinical_careers/job/Canada-Remote/Associate-Product-Manager_R18374?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b3d8d832-b256-485e-b698-3a75921835bb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/EuNetworks?utm_source=GHList&utm_medium=company">euNetworks</a></strong></td>
 <td>Associate Product Manager - Trading Networks</td>
 <td>London, UK</td>
@@ -2066,7 +2066,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate Product Manager</td>
 <td>Portsmouth, UK</td>
 <td><div align="center"><a href="https://subseacraft.bamboohr.com/careers/261/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a87b5fe2-d9d8-48e7-b330-39a40d3088b6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Veeva-Systems?utm_source=GHList&utm_medium=company">Veeva Systems</a></strong></td>
@@ -2080,7 +2080,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (45)</summary>
+<summary>🗃️ Inactive roles (46)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2098,7 +2098,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Product & Ranging New Grad</td>
 <td>Manchester, UK</td>
 <td>🔒</td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Visa?utm_source=GHList&utm_medium=company">🔥 Visa</a></strong></td>
@@ -2118,6 +2118,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>↳</td>
 <td>Associate Product Manager - Enterprise AI Platform</td>
 <td>London, UK</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Clairo?utm_source=GHList&utm_medium=company">Clairo</a></strong></td>
+<td>Associate Product Manager</td>
+<td>Remote in USA</br>Remote in Canada</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -2440,7 +2447,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Data Engineer</td>
 <td>Swinton, Manchester, UK</td>
 <td><div align="center"><a href="https://luxfermeltechnologiesuk.applytojob.com/apply/7D3Toqbi0l/Junior-Data-Engineer?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d4bbdb1a-a772-4252-9490-677cf83c10f6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Vancouver-Coastal-Health?utm_source=GHList&utm_medium=company">Vancouver Coastal Health</a></strong></td>
@@ -2482,13 +2489,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer New Grad - Machine Learning Platform</td>
 <td>Remote in USA</br>Remote in Canada</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3ecd14db-e4e2-468a-9cdf-c4007834664b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Exacare-Ai?utm_source=GHList&utm_medium=company">exacare ai</a></strong></td>
-<td>Data Analyst New Grad</td>
-<td>Toronto, ON, Canada</td>
-<td><div align="center"><a href="https://ats.rippling.com/exacare-inc/jobs/d720fe3e-7a3d-48bb-8fa0-37ef5acdb80e?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5d518279-1c4c-41c2-9b3f-6ed85dd35896?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -2538,7 +2538,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (112)</summary>
+<summary>🗃️ Inactive roles (113)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -2638,6 +2638,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Pinterest?utm_source=GHList&utm_medium=company">🔥 Pinterest</a></strong></td>
 <td>University Grad Machine Learning Engineer 🎓</td>
+<td>Toronto, ON, Canada</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Exacare-Ai?utm_source=GHList&utm_medium=company">exacare ai</a></strong></td>
+<td>Data Analyst New Grad</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
 <td>1mo</td>
@@ -3189,7 +3196,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
 <td>Data Engineer Associate - Technology Solutions</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
@@ -3741,7 +3748,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/JP-Morgan-Chase?utm_source=GHList&utm_medium=company">JP Morgan Chase</a></strong></td>
+<td>↳</td>
 <td>Quant Model Risk Analyst/Associate - Equities 🎓</td>
 <td>London, UK</td>
 <td>🔒</td>
@@ -3796,7 +3803,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Circuit Analyst New Grad</td>
 <td>Ottawa, ON, Canada</td>
 <td><div align="center"><a href="https://techinsights.applytojob.com/apply/ycOBoo1em8/Circuit-Analyst-New-Grad-Opportunity?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d3d77267-e71d-49aa-ae04-bd90d2dfc4e9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
@@ -3824,7 +3831,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer New Grad</td>
 <td>Nuneaton, UK</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159194500?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7e7a3806-1273-43ba-ad1a-b71843329a80?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
