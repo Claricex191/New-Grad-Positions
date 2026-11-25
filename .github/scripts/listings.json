@@ -1,142 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "fd7fd3d7-8eae-4197-b5c2-1c0702bfd6fc",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774832906,
-        "date_posted": 1774832906,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055543",
-        "locations": [
-            "Leicester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Wells Fargo",
-        "id": "523e2453-7640-4777-b087-4a06aad5624a",
-        "title": "Engineering Associate - Java Backend Services",
-        "active": false,
-        "date_updated": 1774832913,
-        "date_posted": 1774832913,
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-LEANDRO-CA/Engineering-Associate---Java-Backend-Services_R-533150",
-        "locations": [
-            "San Leandro, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wells-Fargo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Aerospace",
-        "id": "670550fc-9d27-4cfa-a143-df25ba650dff",
-        "title": "Edison Engineering Development Program - Systems - Computer Engineering/Science",
-        "active": false,
-        "date_updated": 1774850893,
-        "date_posted": 1774850893,
-        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Grand-Rapids/Edison-Engineering-Development-Program--EEDP--Systems---Computer-Engineering-Science---US---2027-Start_R5031091-1",
-        "locations": [
-            "Dayton, OH",
-            "Grand Rapids, MI",
-            "Clearwater, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Aerospace",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3e1aabb3-f5a5-4445-87e1-974d15bee848",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774850832,
-        "date_posted": 1774850832,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055544",
-        "locations": [
-            "Northamptonshire, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Aerospace",
-        "id": "3b47c328-0176-431a-949d-2f90f9911595",
-        "title": "Edison Engineering Development Program - Engines - Computer Engineering/Science",
-        "active": false,
-        "date_updated": 1774850893,
-        "date_posted": 1774850893,
-        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Edison-Engineering-Development-Program--EEDP--Engines---Computer-Engineering-Science---US---2026-Start_R5031077-1",
-        "locations": [
-            "Sharonville, OH",
-            "Saugus, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Aerospace",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "date_updated": 1777381615,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22482",
-        "company_name": "Fortinet",
-        "title": "Associate Software Engineer (AI Agent Developer)",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "Devonav",
-        "id": "1b2f0c70-b45d-421c-ac5e-a9eff5d0fd72",
-        "date_posted": 1774862402,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1775836066,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://www.turningpoint-healthcare.com/careers?gnk=job&gni=8a7885a89d02e553019d1c5d04ba00a1&gns=LinkedIn%2BLimited",
-        "company_name": "TurningPoint Healthcare Solutions",
-        "title": "AI Prompt Designer I",
-        "locations": [
-            "Lake Mary, FL"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "Devonav",
-        "id": "c981fb14-28e9-40df-be47-c84d940ba4bf",
-        "date_posted": 1774862590,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1775836066,
         "sponsorship": "Other",
         "active": false,
@@ -225210,7 +225073,7 @@
         "company_name": "Keysight Technologies",
         "id": "1e4e937c-cef0-4670-861d-a542daf1e8c0",
         "title": "ASIC Digital Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787034781,
         "date_posted": 1787034629,
         "url": "https://jobs.keysight.com/jobs/53892?icims=1",
@@ -229971,7 +229834,7 @@
         "company_name": "TikTok",
         "id": "f3bdb586-bbfb-45b8-95e7-a64529d56300",
         "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics - LLM/Agent",
-        "active": true,
+        "active": false,
         "date_updated": 1787190481,
         "date_posted": 1787190346,
         "url": "https://lifeattiktok.com/search/7675842865566222597",
@@ -230012,7 +229875,7 @@
         "company_name": "TikTok",
         "id": "c9dff2be-8f4e-4123-866d-9dac43703bd2",
         "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics",
-        "active": true,
+        "active": false,
         "date_updated": 1787190481,
         "date_posted": 1787190346,
         "url": "https://lifeattiktok.com/search/7675844938504702213",
@@ -298141,7 +298004,7 @@
         "company_name": "Rivian",
         "id": "65631f60-2928-47c7-a3b3-2c66d4748283",
         "title": "Attributes Method Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790808073,
         "date_posted": 1790807021,
         "url": "https://careers.rivian.com/jobs/34080?icims=1",
@@ -306509,7 +306372,7 @@
         "company_name": "Tesla",
         "id": "f3bb10c8-aadd-4033-be2f-c4b97195980a",
         "title": "Engineering Technician - Low Voltage Test",
-        "active": true,
+        "active": false,
         "date_updated": 1791240867,
         "date_posted": 1791238750,
         "url": "https://www.tesla.com/careers/search/job/284928",
@@ -311099,7 +310962,7 @@
         "company_name": "Qualcomm",
         "id": "83f2ee24-fd50-4520-b7ed-1b35f54ac8d7",
         "title": "SOC Design Verification Engineer - ASICS Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1791412957,
         "date_posted": 1791412075,
         "url": "https://qualcomm.eightfold.ai/careers/job/446721452589",
@@ -326261,7 +326124,7 @@
         "company_name": "Brain Co.",
         "id": "96705002-95d7-4a17-8292-87bbaea60a95",
         "title": "AI Platform Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1792545157,
         "date_posted": 1792544960,
         "url": "https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15/application?embed=true",
@@ -351132,7 +350995,7 @@
         "company_name": "Myriad360",
         "id": "7b528d54-ffd1-46d0-b619-21281f247993",
         "title": "Junior AI and Automation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793846885,
         "date_posted": 1793812833,
         "url": "https://boards.greenhouse.io/myriad360/jobs/8930382002",
@@ -354269,7 +354132,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "697c6f79-8bfb-4200-ad97-2a31888e79c4",
         "title": "Super Intelligence Platform Integration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794007262,
         "date_posted": 1794007032,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990016713536",
@@ -355352,7 +355215,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "1394a2d1-a410-42ee-ba22-80962c84f4b1",
         "title": "Embedded Systems Engineer - Super Intelligence Integration",
-        "active": true,
+        "active": false,
         "date_updated": 1794018786,
         "date_posted": 1794007114,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990016713546",
@@ -357597,7 +357460,7 @@
         "company_name": "Welo Global",
         "id": "3f7d5207-8a9e-454d-86b7-883d015efaec",
         "title": "Robotics Teleoperator",
-        "active": true,
+        "active": false,
         "date_updated": 1794323577,
         "date_posted": 1794323416,
         "url": "https://jobs.lever.co/weloglobal/0b79c7f3-3097-4545-a728-dbd2b78564b6/apply",
@@ -364924,7 +364787,7 @@
         "company_name": "SAM",
         "id": "b00805b0-7d51-4f9e-ab9a-b30cdafb7294",
         "title": "Lidar Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794873288,
         "date_posted": 1794858600,
         "url": "https://careers.sam.biz/jobs/8253?icims=1&lang=en-us",
@@ -365247,7 +365110,7 @@
         "company_name": "Microsoft",
         "id": "542753ed-5d89-4aa7-855f-a20530ae5084",
         "title": "Software Engineer Agentic Security",
-        "active": true,
+        "active": false,
         "date_updated": 1794883882,
         "date_posted": 1794883795,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557074643",
@@ -368329,7 +368192,7 @@
         "company_name": "United Launch Alliance",
         "id": "b77f486a-2b51-4a28-aa1a-586e0eee73a6",
         "title": "Ground Software Avionics & Infrastructure Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1795130739,
         "date_posted": 1795130593,
         "url": "https://jobs.ulalaunch.com/job/Centennial-Ground-Software-(GSW)-Avionics-&-Infrastructure-Engineer-1-CO-80112/1452361700/?ats=successfactors",
@@ -370170,7 +370033,7 @@
         "company_name": "Zscaler",
         "id": "bb4df03f-cdf9-493c-8743-3f139dc83df3",
         "title": "Software Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1795218665,
         "date_posted": 1795196320,
         "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283494007",
@@ -370510,7 +370373,7 @@
         "company_name": "Wellabe",
         "id": "90c98689-b6d9-4277-80b6-6d8d648b6546",
         "title": "Software Engineer 1/2/3",
-        "active": true,
+        "active": false,
         "date_updated": 1795218006,
         "date_posted": 1795217892,
         "url": "https://recruiting.ultipro.com/ame1065/JobBoard/cdfdf806-e3aa-dfb4-4c6e-c7c656217b40/OpportunityDetail?opportunityId=2bb4b550-39c1-4e1c-9123-39b08c6f0fd7",
@@ -372199,7 +372062,7 @@
         "company_name": "National Centre for Social Research",
         "id": "8fdddced-ab2f-44cd-bf1d-4ea9fa6cacc6",
         "title": "Data Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1795446902,
         "date_posted": 1787738225,
         "url": "https://natcen.pinpointhq.com/en/postings/2b62fea5-7b5e-4389-bd88-dc48686b7c23?ats=pinpointhq",
@@ -372887,7 +372750,7 @@
         "company_name": "Microsoft",
         "id": "0b03f09e-f8ed-4344-8984-f9e750cc2440",
         "title": "Software Engineer-Securing AI",
-        "active": true,
+        "active": false,
         "date_updated": 1795488879,
         "date_posted": 1795488684,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557073425",
@@ -373538,5 +373401,307 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dell Technologies",
+        "id": "2565567e-75a7-4ed1-9ff8-0a0d63006997",
+        "title": "Forward Deployed AI Engineer - Technical Program Management - AI Delivery and Enablement",
+        "active": true,
+        "date_updated": 1795567880,
+        "date_posted": 1795567731,
+        "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299999",
+        "locations": [
+            "Hopkinton, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "dcfd7381-287a-4da3-80dd-921874660ecc",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1795569856,
+        "date_posted": 1795569665,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350415",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Veeva Systems",
+        "id": "d9f3f34d-35aa-4d1f-833f-71728fed4a1d",
+        "title": "Associate Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1795569777,
+        "date_posted": 1795569636,
+        "url": "https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f/apply",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DeciBio Consulting",
+        "id": "be7d94f5-0ffa-4eba-b80c-68e443b4235b",
+        "title": "Life Science Data Analyst",
+        "active": true,
+        "date_updated": 1795569664,
+        "date_posted": 1795565397,
+        "url": "https://www.decibio.com/careers/open-positions?gh_jid=8961111002",
+        "locations": [
+            "London, UK",
+            "LA",
+            "Oakland, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DeciBio-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Beyond New Horizons",
+        "id": "2c8b5a58-c9ab-4efb-be82-8047d25e6570",
+        "title": "ID&C Software Engineer",
+        "active": true,
+        "date_updated": 1795569776,
+        "date_posted": 1795478400,
+        "url": "https://careers-bnh.icims.com/jobs/26055/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Tullahoma, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Beyond-New-Horizons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Deloitte",
+        "id": "8897b0b8-300d-49d6-ae33-16dbce5038e7",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1795569455,
+        "date_posted": 1795569265,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Internal-Services-Associate-Software-Engineering-Summer-Fall-2027/376512",
+        "locations": [
+            "Hermitage, Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Metropolitan Transportation Authority",
+        "id": "d1793677-6679-4021-a52b-75b87bbb2676",
+        "title": "Application Developer Analyst Levels 1\u20132",
+        "active": true,
+        "date_updated": 1795570574,
+        "date_posted": 1795570395,
+        "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oHP8AfwY?nl=1&nl=1&fr=false",
+        "locations": [
+            "Jamaica, Queens, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Prolucid Technologies",
+        "id": "5c2a2c7d-778c-41cb-b429-18f64a9e6331",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1795573119,
+        "date_posted": 1795573001,
+        "url": "https://apply.workable.com/prolucid-technologies/j/DBA98070BB/apply",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Prolucid-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Meta",
+        "id": "142a2f4c-3de4-4789-b4df-46f7d23f7ad5",
+        "title": "ASIC Engineer - Performance Architecture and Modeling",
+        "active": true,
+        "date_updated": 1795574897,
+        "date_posted": 1795574808,
+        "url": "https://www.metacareers.com/jobs/1451659813754708",
+        "locations": [
+            "Austin, TX",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "b4da1054-8bb0-4994-ab28-a7d8190f5116",
+        "title": "Backend Software Engineer - Data Lifecycle Management",
+        "active": true,
+        "date_updated": 1795590901,
+        "date_posted": 1795590887,
+        "url": "https://lifeattiktok.com/search/7710030288165996805",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Weekday AI",
+        "id": "640d60ae-93db-4f49-b271-4fcade3a7d7a",
+        "title": "AI Data Contributor",
+        "active": true,
+        "date_updated": 1795592714,
+        "date_posted": 1795592527,
+        "url": "https://apply.workable.com/weekday-1/j/FE232C4F67/apply",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Weekday-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian",
+        "id": "230a36c8-fd73-4c8d-be1f-577d6095c6cf",
+        "title": "Electrical FA Engineer - Failure Analysis",
+        "active": true,
+        "date_updated": 1795598666,
+        "date_posted": 1778796466,
+        "url": "https://careers.rivian.com/jobs/30823?icims=1&lang=en-us",
+        "locations": [
+            "Tustin, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian",
+        "id": "6c91c0a6-9b78-4b47-9fec-622c9880789a",
+        "title": "Hardware-in-the-Loop Engineer 2 - Charging and Energy",
+        "active": true,
+        "date_updated": 1795600462,
+        "date_posted": 1785190339,
+        "url": "https://careers.rivian.com/jobs/32511?icims=1&lang=en-us",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Endeavor Air",
+        "id": "94a655c9-6eae-422b-b1d9-3c513c0b99d4",
+        "title": "Data Analyst - Operations Analysis & Performance",
+        "active": true,
+        "date_updated": 1795601560,
+        "date_posted": 1795132800,
+        "url": "https://careers-endeavorair.icims.com/jobs/5807/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Endeavor-Air",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Formlabs",
+        "id": "b005b51d-d9c1-4b3b-9bf0-478b050cba83",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1795602250,
+        "date_posted": 1793110980,
+        "url": "https://careers.formlabs.com/job/8327414/apply/?gh_jid=8327414",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
