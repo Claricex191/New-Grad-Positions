@@ -1,309 +1,5 @@
 [
     {
-        "date_updated": 1774934795,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/scoutai/jobs/4643333008",
-        "company_name": "Scout AI",
-        "title": "Junior Firmware Engineer",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "723295b5-251b-44de-8933-5939d249aae2",
-        "date_posted": 1774934795,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1778678744,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://careers-gdms.icims.com/jobs/71627/software-engineer-%E2%80%93-entry-level/job",
-        "company_name": "General Dynamics Mission Systems",
-        "title": "Software Engineer \u2013 Entry Level",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "38bc05a2-9826-431e-b775-695753cd897a",
-        "date_posted": 1774934915,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1774935112,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://careers-gdms.icims.com/jobs/71647/junior-full-stack-engineer-%28java-react%29/job",
-        "company_name": "General Dynamics Mission Systems",
-        "title": "Junior Full Stack Engineer (Java/React)",
-        "locations": [
-            "Dedham, MA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "c3a3c254-2d83-4f25-8ee6-609bfa5a7c34",
-        "date_posted": 1774935112,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1778678744,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://careers-gdms.icims.com/jobs/69929/entry-level-software-engineer/job",
-        "company_name": "General Dynamics Mission Systems",
-        "title": "Entry Level Software Engineer",
-        "locations": [
-            "Manassas, VA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "4cc84e87-e350-4f95-ad25-8bc9c953e8bf",
-        "date_posted": 1774935164,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1775836066,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Newport-News-VA/Junior-Software-Engineer_R-00179196",
-        "company_name": "Leidos",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Newport News, VA",
-            "Omaha, NE",
-            "Orlando, FL",
-            "Charlottesville, VA",
-            "Lexington, MA",
-            "Morgantown, WV"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "9965b12d-da7c-463d-8027-59cfbd74cf9a",
-        "date_posted": 1774935243,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1775836066,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Newport-News-VA/Junior-Software-Engineer_R-00179197",
-        "company_name": "Leidos",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Newport News, VA",
-            "Omaha, NE",
-            "Orlando, FL",
-            "Charlottesville, VA",
-            "Lexington, MA",
-            "Morgantown, WV"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "a46d9b98-c4a4-4501-8926-8ab235994621",
-        "date_posted": 1774935302,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1775836066,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Newport-News-VA/Junior-Software-Engineer_R-00179195",
-        "company_name": "Leidos",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Newport News, VA",
-            "Omaha, NE",
-            "Orlando, FL",
-            "Charlottesville, VA",
-            "Lexington, MA",
-            "Morgantown, WV"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "c6841048-31bd-4372-8b00-098ccc535efb",
-        "date_posted": 1774935353,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1776439711,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://careers-lmi.icims.com/jobs/13822/junior-data-scientist---clearance-required/job",
-        "company_name": "LMI",
-        "title": "Junior Data Scientist",
-        "locations": [
-            "El Segundo, CA",
-            "Colorado Springs, CO"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "a5b59195-77c7-4f90-bc82-1d859971b803",
-        "date_posted": 1774935460,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "KLA",
-        "id": "afafa7a0-c4bf-40b5-b192-c227fdd96f7f",
-        "title": "Product Development Application Engineer",
-        "active": false,
-        "date_updated": 1774939861,
-        "date_posted": 1774937184,
-        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Application-Engineer_2635170-1",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "American University",
-        "id": "ba4dd248-615f-4baa-ad0a-b3cf77d7c77a",
-        "title": "Research Assistant",
-        "active": false,
-        "date_updated": 1774939991,
-        "date_posted": 1774937141,
-        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Part-Time-Research-Assistant_R4074",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/American-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Leidos",
-        "id": "5b095740-9bc3-4d65-a179-3023a52944d0",
-        "title": "Mid-level Software Engineer - Transportation/Computer Vision",
-        "active": false,
-        "date_updated": 1774939121,
-        "date_posted": 1774937366,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/mid-level-Software-Engineer--Transportation-Computer-Vision-_R-00177044-1",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Allied Solutions",
-        "id": "4e1c7bc6-4806-4bfb-b0dd-4b29ecbff5cb",
-        "title": "Data Integration Analyst 1",
-        "active": false,
-        "date_updated": 1774939987,
-        "date_posted": 1774937368,
-        "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-Integration-Analyst-I_R-010658",
-        "locations": [
-            "Carmel, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Allied-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "White Cap Supply Holdings",
-        "id": "d7015769-eeda-432e-824a-e332e3be00ae",
-        "title": "Application Engineer",
-        "active": false,
-        "date_updated": 1774939861,
-        "date_posted": 1774937360,
-        "url": "https://whitecap.wd1.myworkdayjobs.com/careers/job/Orlando_32822/Application-Engineer_WCJR-031500-1",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/White-Cap-Supply-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "56df5dae-74b6-4852-b88d-69c3ffa65135",
-        "title": "Software Engineer / Principal Software Engineer",
-        "active": false,
-        "date_updated": 1774940110,
-        "date_posted": 1774937356,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Software-Engineer--Principal-Software-Engineer_R10227765",
-        "locations": [
-            "Box Elder County, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "3d1b7afa-b8e2-480d-8ea3-dd025fd955be",
-        "title": "Graduate Software Developer - C#",
-        "active": false,
-        "date_updated": 1774987381,
-        "date_posted": 1774947936,
-        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Graduate-Software-Developer--C----2-year-Placement_3156191",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Cintas",
@@ -1777,45 +1473,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "23c36964-c163-43b5-9706-25b261bef199",
-        "title": "Graduate Software Developer - C#",
-        "active": false,
-        "date_updated": 1774987381,
-        "date_posted": 1774947907,
-        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Cambridge-Cambridgeshire-United-Kingdom/Graduate-Software-Developer--C----2-year-Placement_3156191-1",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "cd638de2-97ec-4aa9-9737-4b64e4cccd75",
-        "title": "AI Chip Design Engineer \u2013 New College Grad",
-        "active": false,
-        "date_updated": 1775001058,
-        "date_posted": 1774947778,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Chip-Design-Engineer---New-College-Grad-2026_JR2015487",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -317124,7 +316781,7 @@
         "company_name": "Redwood Materials",
         "id": "33ae4f5c-d020-4d6b-b33d-591c0f7da237",
         "title": "Electrical Engineering Associate - Energy Storage",
-        "active": true,
+        "active": false,
         "date_updated": 1791957963,
         "date_posted": 1791957807,
         "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6223627004",
@@ -345912,7 +345569,7 @@
         "company_name": "Kaluza",
         "id": "16ae835b-6956-4247-b9a5-e8906e1273f2",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793495883,
         "date_posted": 1790121600,
         "url": "https://jobs.ashbyhq.com/kaluza/5ef79ceb-c6eb-4d46-abca-ddb532cf8739/application?embed=true",
@@ -347762,7 +347419,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "b1b0194a-88c7-43f5-a69c-3ec0133181a7",
         "title": "Associate Product Manager - Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1793748470,
         "date_posted": 1793735700,
         "url": "https://blackhawknetwork.jibeapply.com/jobs/27263?icims=1",
@@ -351124,7 +350781,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "ec690411-3f8c-4226-b9e3-2060341f134b",
         "title": "Associate Product Manager - Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1793868069,
         "date_posted": 1793664000,
         "url": "https://careers-blackhawknetwork.icims.com/jobs/27263/job?mobile=true&needsRedirect=false",
@@ -355853,7 +355510,7 @@
         "company_name": "Longshot Space Technologies",
         "id": "ed4e92f2-433b-4afc-b17c-5abc1cad9d04",
         "title": "Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794296410,
         "date_posted": 1794296211,
         "url": "https://ats.rippling.com/longshot/jobs/4392677a-3d26-4049-845d-bb7fb04246fd",
@@ -368839,7 +368496,7 @@
         "company_name": "Zscaler",
         "id": "bb4df03f-cdf9-493c-8743-3f139dc83df3",
         "title": "Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1795218665,
         "date_posted": 1795196320,
         "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283494007",
@@ -369992,7 +369649,7 @@
         "company_name": "Applied Engineering",
         "id": "79e776f8-34ef-4c18-9385-a94306716e3c",
         "title": "Electrical Engineer: Embedded Software",
-        "active": true,
+        "active": false,
         "date_updated": 1795255206,
         "date_posted": 1795123263,
         "url": "https://www.go-applied.com/careers/openings/?gh_jid=4515468009",
@@ -372074,7 +371731,7 @@
         "company_name": "American Council on Education",
         "id": "9bf6d1ba-adef-4f74-9343-9e9d9dfba88e",
         "title": "Associate \u2013 Data Insights and Policy Analysis",
-        "active": true,
+        "active": false,
         "date_updated": 1795562290,
         "date_posted": 1795562177,
         "url": "https://recruiting.ultipro.com/AME1073/JobBoard/3ab22f45-0d00-7f95-def8-c8ca6a23d48f/OpportunityDetail?opportunityId=f1e43996-efa6-4910-8b46-cef7d4443d1d",
@@ -373201,6 +372858,147 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ameren",
+        "id": "b2b33833-35be-4be9-bfdf-ca8c663b18e3",
+        "title": "Data Analyst - Business Analytics",
+        "active": true,
+        "date_updated": 1795664701,
+        "date_posted": 1795564800,
+        "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Data-Analyst---Missouri-Business-Analytics-_034518",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Ameren",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "f11a83b2-59da-43ef-9f7c-3b67a7e3411c",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1795679821,
+        "date_posted": 1795679710,
+        "url": "https://careers.cisco.com/global/en/job/2030715",
+        "locations": [
+            "Research Triangle Park, Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Honeywell Aerospace",
+        "id": "47b10f30-3aec-4553-8aab-3e90e3fd26b2",
+        "title": "Electronic Design Engineer 1",
+        "active": true,
+        "date_updated": 1795685824,
+        "date_posted": 1795159655,
+        "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/128472",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Recidiviz",
+        "id": "43eac614-8780-4559-9469-e724025dd0af",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1795685761,
+        "date_posted": 1790808159,
+        "url": "https://job-boards.greenhouse.io/recidiviz/jobs/4717510006",
+        "locations": [
+            "Oakland, CA",
+            "Remote in USA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Recidiviz",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Framework",
+        "id": "8b6ac4f4-1ce1-463c-aaab-1cb87af4798e",
+        "title": "Senior Hardware Product Manager",
+        "active": true,
+        "date_updated": 1795688320,
+        "date_posted": 1795532689,
+        "url": "https://ats.rippling.com/framework/jobs/3902e646-7d7e-416b-bf96-3f231b65791d",
+        "locations": [
+            "Remote in USA",
+            "Taipei City, Taiwan"
+        ],
+        "company_url": "https://simplify.jobs/c/Framework",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "K1",
+        "id": "ab501bad-862f-4f37-963c-78590ba637c1",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1795689361,
+        "date_posted": 1790921742,
+        "url": "https://k1im.applytojob.com/apply/7yVsObIt1i/AI-Engineer",
+        "locations": [
+            "Manhattan Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/K1",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "a20fbd72-eae4-4051-ae1c-a1b21340ed3f",
+        "title": "Data Collection Operator",
+        "active": true,
+        "date_updated": 1795691740,
+        "date_posted": 1795691534,
+        "url": "https://jobs.lever.co/weloglobal/275c499e-b870-4465-91ed-1c852eae564c/apply",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
